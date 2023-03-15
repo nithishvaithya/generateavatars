@@ -33,4 +33,4 @@ This is huge! You've got a custom model running on the web, and you can share it
 
 if you got value from this -- plz give us a star 🙂⭐
 
-built w/ ❤️ by [aleem](https://twitter.com/aleemrehmtulla) & [alex](https://twitter.com/thealexshaq)
+
