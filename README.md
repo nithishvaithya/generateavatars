@@ -1,6 +1,6 @@
-# generate potter 🧙
+# Generate Avatars 🧙
 
-you're a coder harry. treat this repo as diagon alley, it has everything you need to deploy a custom LeapML model ✨
+It has everything you need to deploy a custom LeapML model ✨
 
 let's get started by forking this repository (button top right), and downloading it to your computer. from there follow the below :)
 
